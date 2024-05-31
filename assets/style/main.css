@@ -20,13 +20,13 @@ body {
 
 .swiper-slide {
   text-align: center;
-  font-size: 24px;
+  font-size: 13px;
   background: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
   text-align: justify;
-  text-indent: 60px;
+  text-indent: 30px;
 }
 
 .swiper-slide img {
@@ -54,7 +54,7 @@ body {
 .mySwiper {
   height: 100%;
   box-sizing: border-box;
-  /* padding: 10px 0; */
+  padding: 0px 10px;
 }
 
 .mySwiper .swiper-slide {
