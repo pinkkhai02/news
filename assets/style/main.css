@@ -20,7 +20,7 @@ body {
 
 .swiper-slide {
   text-align: center;
-  font-size: 11px;
+  font-size: 24px;
   background: #fff;
   display: flex;
   flex-direction: column;
