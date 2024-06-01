@@ -6,7 +6,7 @@ body {
 body {
   /* position: relative;
   height: 100%; */
-  background: #fff;
+  background: transparent;
   font-size: 13px;
   color: #000;
   margin: 0;
@@ -21,7 +21,7 @@ body {
 .swiper-slide {
   text-align: center;
   font-size: 13px;
-  background: #fff;
+  background: transparent;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -73,5 +73,4 @@ body {
   height: 100%;
   object-fit: cover;
 }
-
 
